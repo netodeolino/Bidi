@@ -1,5 +1,5 @@
 <footer>
-		<img src="img/bidi.png" alt="Logo Bidi">
+		<a href="">Bidi</a>
 
 		<ul class="share">
 			<li><a href="http://facebook.com/bidi">Facebook</a></li>

@@ -10,6 +10,7 @@
 	<script type="text/javascript" src="js/modernizr-custom.js"></script>
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<!--<script type="text/javascript" src="js/jcarousel.js"></script>-->
+	<script type="text/javascript" src="js/jcarousel.min.js"></script>
 	<script type="text/javascript" src="js/jcarousel.basic.js"></script>
 	
 	</script>
@@ -20,14 +21,14 @@
 	
 	<div class="container">
 <div class="wrapper">
-            <h1>Basic carousel</h1>
+            <h1>Teste banner rotativo</h1>
 
             <p>This example shows how to setup a basic carousel with prev/next controls and pagination.</p>
 
             <div class="jcarousel-wrapper">
                 <div class="jcarousel">
                     <ul>
-                        <li><a href="http://globoesporte.com"><img src="img/one.jpg" width="600" height="400" alt=""></a></li>
+                        <li><img src="img/one.jpg" width="600" height="400" alt=""></li>
                         <li><img src="img/two.jpg" width="600" height="400" alt=""></li>
                         <li><img src="img/three.png" width="600" height="400" alt=""></li>
                     </ul>

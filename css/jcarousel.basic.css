@@ -1,5 +1,5 @@
 .jcarousel-wrapper {
-    width: 60%;
+    width: 47%;
     margin: 10px auto;
     position: relative;
     border: 5px solid #fff;
@@ -31,7 +31,8 @@
 .jcarousel {
     position: relative;
     overflow: hidden;
-    
+    width: 600px;
+    height: 400px;
 }
 
 .jcarousel ul {
@@ -44,10 +45,6 @@
 
 .jcarousel li {
     float: left;
-}
-
-.jcarousel img {
-    position: relative;
 }
 
 /** Carousel Controls **/

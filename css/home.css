@@ -56,7 +56,13 @@ footer {
 	background-color: #A8A8A8;
 }
 
-footer img, .share {
+footer a {
+	text-decoration: none;
+	font-size: 4.5em;
+	color: #080808;
+}
+
+footer a, .share {
 	margin-right: 2%;
 	margin-left: 2%;
 }
